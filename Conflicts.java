@@ -3,7 +3,7 @@ public class Conflicts {
         String name = "Divyansh Rajput";
         int roll = 43;
 
-        int c = 25;
+        int age = 25;
 
         System.out.println(age);
     }
